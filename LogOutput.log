@@ -1,0 +1,172 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (10.12.2023 1:13:14)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 6 plugins to load
+[Info   :   BepInEx] Loading [BiggerLobby 2.5.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [Chdata's Neco Arc Hoarder Bug Mod 1.0.8]
+[Info   :ChdataNecoArcHoarderBug] --=== CHDATA's NECO ARC MOD LOADED ===--
+[Info   :ChdataNecoArcHoarderBug] --=== CHDATA's NECO ARC MOD LOADED ===--
+[Info   :ChdataNecoArcHoarderBug] --=== CHDATA's NECO ARC MOD LOADED ===--
+[Info   :   BepInEx] Loading [LC_API 2.1.1]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LC Sound Tool 1.4.0]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [ModelReplacementAPI 2.2.0]
+[Info   :meow.ModelReplacementAPI] Plugin meow.ModelReplacementAPI is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Info   :ChdataNecoArcHoarderBug] --=== START ===--
+[Info   :ChdataNecoArcHoarderBug] --=== All sounds are loaded! ===--
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 1 AssetBundles to load!
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Lethal Company\BepInEx\plugins\necoarcremake_bynerro13
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Message:    LC_API] server pre-setup success
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Kinch responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] raffaellmir responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Kinch responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 1
+[Info   :ChdataNecoArcHoarderBug] Using default spawn rate settings
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 2
+[Info   :ChdataNecoArcHoarderBug] Using default spawn rate settings
+[Message:    LC_API] server pre-setup success
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Kinch responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] raffaellmir responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Kinch responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] raffaellmir responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] Kinch responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Warning:    LC_API] NeinCat responded with these mods:
+BiggerLobby
+ChdataNecoArcHoarderBug
+LC_API
+LCSoundTool
+x753.More_Suits
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 3
+[Info   :ChdataNecoArcHoarderBug] Increased Max Power Counter and Hoarder Bug Spawns
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :   Console] PLAYER TAKE DAMAGE raffaellmir
+[Info   :   Console] PLAYER TAKE DAMAGE raffaellmir
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :   Console] PLAYER TAKE DAMAGE Kinch
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Level is company, skipping
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 1
+[Info   :ChdataNecoArcHoarderBug] Using default spawn rate settings
+[Info   :   Console] PLAYER TAKE DAMAGE raffaellmir
+[Info   :   Console] PLAYER TAKE DAMAGE raffaellmir
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 2
+[Info   :ChdataNecoArcHoarderBug] Using default spawn rate settings
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Days passed: 3
+[Info   :ChdataNecoArcHoarderBug] Increased Max Power Counter and Hoarder Bug Spawns
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :   Console] PLAYER TAKE DAMAGE NeinCat
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Hoarder Bug Summoned ===--
+[Info   :ChdataNecoArcHoarderBug] --=== Convert to Neco Arc ===--
+[Info   :ChdataNecoArcHoarderBug] --=== FOUND ===--
+[Info   :ChdataNecoArcHoarderBug] Client is host: True
+[Info   :ChdataNecoArcHoarderBug] Level is company, skipping
